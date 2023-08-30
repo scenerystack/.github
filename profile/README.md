@@ -6,6 +6,11 @@ Welcome to the front page of SceneryStack, the library stack for those intereste
 
 Currently, all repositories that are part of SceneryStack are found in the [phetsims repositories](https://github.com/phetsims/).
 
-🗣️ **Join the Conversation**: Swing by our [Discussions forum](https://github.com/orgs/scenerystack/discussions). Drop a hello, pose a question, or showcase what you're creating! We love hearing from you.
+🗣️ **Join the Conversation**: Swing by our [Discussions forum](https://github.com/orgs/scenerystack/discussions). Drop a hello, pose a question, or showcase what you're creating! We love hearing from you. 
+
+- Join our chat! We have a synchronized Slack, Discord, and Matrix channel for the community to discuss and collaborate. Choose whichever platform you prefer. 
+  - [Join our Slack](https://join.slack.com/t/scenerystack/shared_invite/zt-22d2r9ruc-GnxYi37iPluFwVkt~LdzGA)
+  - [Join our Discord](https://discord.gg/xRHERtXFjk)
+  - [Join our Matrix server](https://matrix.to/#/#scenerystack:matrix.org) (Element client recommended)
 
 💖 Thanks for stopping by, and we're excited to see what the community crafts together!
