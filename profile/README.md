@@ -1,5 +1,7 @@
 # 🏞️ SceneryStack 
 
+![GitHub Discussions](https://img.shields.io/github/discussions/scenerystack/community) ![Static Badge](https://img.shields.io/badge/chat-matrix-green?link=https%3A%2F%2Fmatrix.to%2F%23%2F%23scenerystack%3Amatrix.org)
+
 Welcome to the front page of SceneryStack, the library stack for those interested in creating multimodal, interactive web projects using the same TypeScript libraries used to create the world-reknown digital science and math education experiences from PhET Interactive Simulations.
 
 📘 **Start Here**: All resources to engage with the SceneryStack community and kickstart your journey can be found in the [Community repo](https://github.com/scenerystack/community).
