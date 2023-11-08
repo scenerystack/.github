@@ -1,16 +1,10 @@
 # 🏞️ SceneryStack 
 
-<p>
-    <a href="https://github.com/orgs/scenerystack/discussions">
-        <img src="https://img.shields.io/github/discussions/scenerystack/community" alt="SceneryStack GitHub Discussions">
-    </a>
-    <a href="https://matrix.to/#/##scenerystack:matrix.org">
-        <img src="https://img.shields.io/badge/chat-matrix-green" alt="invite link to Matrix chat">
-    </a>
-    <a href="https://join.slack.com/t/scenerystack/shared_invite/zt-22d2r9ruc-GnxYi37iPluFwVkt~LdzGA">
-        <img src="https://img.shields.io/badge/chat-slack-purple" alt="invite link to Slack chat">
-    </a>
-</p>
+[![Website](https://img.shields.io/badge/community-website-yellow?logo=markdown&logoColor=yellow)](https://github.com/orgs/scenerystack/discussions)
+
+[![Discussions](https://img.shields.io/github/discussions/scenerystack/community)](https://github.com/orgs/scenerystack/discussions)
+[![Slack chat](https://img.shields.io/badge/chat-slack-purple)](https://join.slack.com/t/scenerystack/shared_invite/zt-22d2r9ruc-GnxYi37iPluFwVkt~LdzGA)
+[![Matrix chat](https://img.shields.io/badge/matrix-chat-green?logo=matrix&logoColor=green)](https://matrix.to/#/##scenerystack:matrix.org)
 
 
 Welcome to the front page of SceneryStack, the library stack for those interested in creating multimodal, interactive web projects using the same TypeScript libraries used to create the world-reknown digital science and math education experiences from PhET Interactive Simulations.
