@@ -1,6 +1,6 @@
 # 🏞️ SceneryStack 
 
-[![Website](https://img.shields.io/badge/community-website-yellow?logo=markdown&logoColor=yellow)](https://github.com/orgs/scenerystack/discussions)
+[![Website](https://img.shields.io/badge/community-website-yellow?logo=markdown&logoColor=yellow)](https://scenerystack.github.io/community/)
 
 [![Discussions](https://img.shields.io/github/discussions/scenerystack/community)](https://github.com/orgs/scenerystack/discussions)
 [![Slack chat](https://img.shields.io/badge/chat-slack-purple)](https://join.slack.com/t/scenerystack/shared_invite/zt-22d2r9ruc-GnxYi37iPluFwVkt~LdzGA)
