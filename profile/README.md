@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/142453648?s=200&v=4" width="50"> SceneryStack 
+# <img src="https://scenerystack.org/about/assets/png/scenerystack-banner.png" >
 
 [![Website](https://img.shields.io/badge/scenerystack-website-blue)](http://scenerystack.org)
 [![Discussions](https://img.shields.io/github/discussions/scenerystack/community)](https://github.com/orgs/scenerystack/discussions)
