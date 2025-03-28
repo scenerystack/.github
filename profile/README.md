@@ -1,18 +1,18 @@
 # <img src="https://scenerystack.org/about/assets/png/scenerystack-banner.png" >
 
-[![Website](https://img.shields.io/badge/scenerystack-website-blue)](http://scenerystack.org)
-[![Discussions](https://img.shields.io/github/discussions/scenerystack/community)](https://github.com/orgs/scenerystack/discussions)
-[![Slack chat](https://img.shields.io/badge/chat-slack-purple)](https://join.slack.com/t/scenerystack/shared_invite/zt-22d2r9ruc-GnxYi37iPluFwVkt~LdzGA)
-[![Matrix chat](https://img.shields.io/badge/chat-matrix-green)](https://matrix.to/#/##scenerystack:matrix.org)
-
 📘 **Start Here**: [SceneryStack](http://scenerystack.org)
 
-SceneryStack is an HTML5 development framework for creating multimodal, accessible web interactives. The PhET Interactive Simulations Project uses many or all of these libraries when creating an educational interactive simulation. SceneryStack offers libraries suitable for general web interactive development, as well as those specifically tailored to STEM interactive simulations.
+SceneryStack is an open-source TypeScript framework designed to create powerful, interactive, and accessible web experiences. SceneryStack offers web development libraries for building engaging simulations, educational tools, or next-generation web applications. Included is support for robust accessibility features like dynamic screen-reader descriptions and alternative input (e.g., keyboard navigation).
+
+SceneryStack is the development framework behind [PhET Interactive Simulations](https://phet.colorado.edu), where it powers STEM-focused interactives used by millions around the world. PhET continues to maintain and contribute to SceneryStack for the purposes of creating multimodal and accessible STEM interactives.
+
+SceneryStack is in the early stages of transitioning to an independent open-source community, driven by a collective passion for a more people-friendly web.
 
 🗣️ **Join the Conversation**: Drop a hello, pose a question, or showcase what you're creating! We love hearing from you. Choose any of our active platforms:
-- Swing by our [Discussions forum](https://github.com/orgs/scenerystack/discussions). 
-- Join our chat! We have synchronized Slack and Matrix channels for the community. You may choose either and you will see the same posts.
-  - [Join our Slack](https://join.slack.com/t/scenerystack/shared_invite/zt-22d2r9ruc-GnxYi37iPluFwVkt~LdzGA)
-  - [Join our Matrix server](https://matrix.to/#/#scenerystack:matrix.org) (Element client recommended)
+- Swing by our [Discussions forum](https://github.com/orgs/scenerystack/discussions).
+- SceneryStack uses Discord for chat, while offering Matrix.org as an open-source alternative. You can join the chat room using the following links:
+    - [Join our Discord server](https://discord.gg/K2x7XKcMuP)
+    - [Join our Matrix server](https://matrix.to/#/#scenerystack:matrix.org)
+        - [Element](https://element.io/) is the default, cross-platform client for accessing Matrix with desktop, mobile, and web apps. You can also use other Matrix clients to access the chat.
 
 💖 Thanks for stopping by, and we're excited to see what the community crafts together!
