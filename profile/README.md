@@ -1,5 +1,4 @@
-# <img src="https://scenerystack.org/about/assets/png/scenerystack-banner.png" >
-
+# [![SceneryStack](https://scenerystack.org/about/assets/png/scenerystack-banner.png)](https://scenerystack.org)
 📘 **Start Here**: [SceneryStack](http://scenerystack.org)
 
 SceneryStack is an open-source TypeScript framework designed to create powerful, interactive, and accessible web experiences. SceneryStack offers web development libraries for building engaging simulations, educational tools, or next-generation web applications. Included is support for robust accessibility features like dynamic screen-reader descriptions and alternative input (e.g., keyboard navigation).
